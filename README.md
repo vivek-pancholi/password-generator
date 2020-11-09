@@ -32,3 +32,8 @@
     * Strong strength mode
     
 5. Hassle-free setup, configuration and requires very less resources.
+
+
+# UI:
+
+
