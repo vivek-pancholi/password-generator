@@ -18,7 +18,7 @@
 * After this, small GUI window appears, which means program is ready to use.
 
 
-#Features:
+# Features:
 
 1. Small amount of memory/CPU requires.
 
