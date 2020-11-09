@@ -1,4 +1,4 @@
-# password-generator
+# Password Generator
 
 ## How to install & Configure?
 
